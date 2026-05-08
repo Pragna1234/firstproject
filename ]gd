@@ -1,0 +1,128 @@
+[33mcommit 5298feb4edb963e8526faef71943cc5b0ad554d5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pragna1234 <alwala.pragna@gmail.com>
+Date:   Fri May 8 13:14:23 2026 -0700
+
+    added caliclus
+
+[33mcommit 54f3b32b5aeef39ce6f147cbd28f8667ba218694[m
+Merge: 6d2d7ff d1b7f72
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 12:13:00 2026 -0700
+
+    resolved conflits
+
+[33mcommit 6d2d7ffa2ca42add313d05319bd0622808f48a6d[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 12:05:08 2026 -0700
+
+    added trignometry
+
+[33mcommit 63b7fa0feaf39ca99003022ae067f82418c0617a[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 11:26:59 2026 -0700
+
+    resolved rebase confilt
+
+[33mcommit d1b7f72a631c72adb4edb8a3b9539556a3e561bc[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 11:24:47 2026 -0700
+
+    added intersection in main branch
+
+[33mcommit a5871fd7a547a492fc1a03407d33392e0eb709c9[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 11:23:37 2026 -0700
+
+    added && and **
+
+[33mcommit c635cedba08625923f10f86ca37efde126630d77[m
+Merge: f31d2e5 acce1b4
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 11:15:25 2026 -0700
+
+    resolved conflit
+
+[33mcommit f31d2e5263854c24d7d7fd8ade31e1920cb91ad1[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 11:10:33 2026 -0700
+
+    added union functionality
+
+[33mcommit acce1b4e670310152aad290a0135321e31614460[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 11:04:00 2026 -0700
+
+    extra functionality reminder is added
+
+[33mcommit fdd2dd5d0311786749c56ea770c27396e263d682[m
+Merge: 5730b2b e1851ea
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 07:15:29 2026 -0700
+
+    merge conflicts
+
+[33mcommit e1851ea4c7df1b23123fcd3043586cf656e00155[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 07:10:35 2026 -0700
+
+    added new functionality division
+
+[33mcommit 5730b2b73594e9b5b428cfe921c4ae569eb42b47[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 07:06:55 2026 -0700
+
+    added testcommit new functionaality
+
+[33mcommit e8264d5ac667afc653c58542c8889f3d125ce769[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 07:04:03 2026 -0700
+
+    added new functionality %
+
+[33mcommit 80c793c1f188c15014f7370200a7618f7c03f6dd[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 06:37:32 2026 -0700
+
+    added new functionality multiplication
+
+[33mcommit 3425edec869137703688c22c4994248d9ad44b4e[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Mon Apr 27 06:25:26 2026 -0700
+
+    this is the new file to test functionality
+
+[33mcommit 2b4825668132d68fc3220f23d04bffa95b65ee6b[m[33m ([m[1;31morigin/branch2[m[33m)[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Wed Apr 22 12:40:13 2026 -0700
+
+    added new file and modified index.htm with new line.
+
+[33mcommit 4f02ec44704f4752407b563ad7d58683223d1cbe[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Wed Apr 22 12:31:35 2026 -0700
+
+    removed homepage.html
+
+[33mcommit 7f90e7d0b2c829529befca90dd8b66684ca018bf[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Wed Apr 22 11:51:17 2026 -0700
+
+    created another file
+
+[33mcommit 5a01389c6b2e073e1cd13e64eb6e7451d0f068a9[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Wed Apr 22 11:23:31 2026 -0700
+
+    added aryahi to file
+
+[33mcommit ae4c389369a79ad383a4f4234166b82f6756485d[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Wed Apr 22 07:26:46 2026 -0700
+
+    i have added extra name
+
+[33mcommit a06e19f66229e8f50a1aa471e374c383a4e4be65[m
+Author: Pragna1234 <alwala.pragna@gmail.com>
+Date:   Wed Apr 22 07:23:13 2026 -0700
+
+    my first index.html file
